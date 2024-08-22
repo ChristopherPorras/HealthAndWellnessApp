@@ -47,8 +47,6 @@
 
 The application is built using a decoupled architecture, with a separate backend (API) and frontend (React). The backend handles all business logic, user management, and AI processing, while the frontend focuses on user interaction and presentation.
 
-![Architecture Diagram](https://via.placeholder.com/500) <!-- Cambia este enlace a tu diagrama de arquitectura -->
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -58,8 +56,3 @@ The application is built using a decoupled architecture, with a separate backend
 - SQL Server
 - Docker (optional for containerization)
 
-### Backend Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/HealthAndWellnessApp.git
